@@ -10,6 +10,6 @@ All three of these models go through two distinct drive cycles, namely a constan
 
 The fuel consumption data is written into *Fuel Consumption Data* for all of the drive trains and the various drive cycles. 
 
-Details of the modelling and the results thereof can be found in "Thesis.pdf".
+Details of the modelling and the results thereof can be found in "Thesis.pdf". My Final PowerPoint presentation is also included in "Presentation.pdf". 
 
 *Copyright disclaimer: This work may be used for further research, design developments and other projects provided that due credit is given for the initial models and data. Suggested reference: Kalagobe, T. (2019). Reduction of Fuel Consumption and CO2 Emissions using a Hybrid Drive Train in a Truck Logistics Operation.*
