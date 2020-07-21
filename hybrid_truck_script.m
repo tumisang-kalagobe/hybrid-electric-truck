@@ -1,6 +1,6 @@
 clc; clear;
 %{
-Author          :   Tumisang Kalagobe (800363)
+Author          :   Tumisang Kalagobe (tumisang.kalagobe@pm.me)
 Supervisor      :   Professor Frank Kienhoffer
 Date finalised  :   27/08/2019
 Matlab Version  :   R2018b v9.5.0.1049112
@@ -8,7 +8,7 @@ Course          :   Mechanical Engineering Research Project (MECN4006)
 Description     :   Quasistatic Fuel Consumption Prediction of Various
                     Drive Trains for a Semi Truck Trailer Logistics
                     Operation. More Information on how the models were 
-                    developed can be found in "800363.pdf"
+                    developed can be found in "Thesis.pdf"
 %}
 
 tic 
