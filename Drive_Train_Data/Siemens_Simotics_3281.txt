@@ -1,0 +1,2 @@
+Efficiency (%)	T_rated (N.m)	n_rated (rpm)	P_rated (kW)	Mass (kg)
+0.96	2200	600	138	600

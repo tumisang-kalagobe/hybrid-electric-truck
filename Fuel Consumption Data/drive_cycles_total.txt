@@ -1,0 +1,4 @@
+Drive Cycle	ICE	Series	Parallel
+Cruise	31.8193	12.1204	0
+Transient	8.1544	1.3058	0
+Creep	2.0315	0	0
